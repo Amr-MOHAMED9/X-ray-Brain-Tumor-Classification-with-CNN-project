@@ -1,1 +1,1 @@
-.
+In this project, a convolutional neural network (CNN) for has been implemented for classifying brain tumors as healthy/tumorous based on X-ray image using the [Brian Tumor Dataset](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset) from Kaggle for model, training, validation, and evaluation, where accuracies of  98.7%, 99.8%, and 99.6% were achieved on the training, validation, and testing datasets respectively. Moreover, specifity, sensetivity, and precision metrics were used for model performance evaluation.
